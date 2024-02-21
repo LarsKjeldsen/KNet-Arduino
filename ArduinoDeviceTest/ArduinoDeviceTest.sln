@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArduinoDeviceTest", "ArduinoDeviceTest.vcxproj", "{3190013B-7A25-494E-A4CB-C251E0C84D93}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OLEDtest", "..\..\..\..\Prog\OLEDtest\OLEDtest.vcxproj", "{FE9797CA-A2C8-451A-87CB-EF3D1696C988}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3190013B-7A25-494E-A4CB-C251E0C84D93}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3190013B-7A25-494E-A4CB-C251E0C84D93}.Debug|Win32.Build.0 = Debug|Win32
+		{3190013B-7A25-494E-A4CB-C251E0C84D93}.Release|Win32.ActiveCfg = Release|Win32
+		{3190013B-7A25-494E-A4CB-C251E0C84D93}.Release|Win32.Build.0 = Release|Win32
+		{FE9797CA-A2C8-451A-87CB-EF3D1696C988}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FE9797CA-A2C8-451A-87CB-EF3D1696C988}.Debug|Win32.Build.0 = Debug|Win32
+		{FE9797CA-A2C8-451A-87CB-EF3D1696C988}.Release|Win32.ActiveCfg = Release|Win32
+		{FE9797CA-A2C8-451A-87CB-EF3D1696C988}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
